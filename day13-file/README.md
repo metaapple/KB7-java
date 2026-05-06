@@ -1,6 +1,7 @@
 <br>
 
-<img width="1536" height="1024" alt="Java learning" src="https://github.com/user-attachments/assets/6f00fdac-6948-4f51-93cf-273e2fdd8d66" />
+<img width="1024" height="1536" alt="파일입출력" src="https://github.com/user-attachments/assets/c277b6f9-c82c-49c9-b713-b92e64cdcf08" />
+
 
 <br>
 
@@ -356,6 +357,3 @@ classDiagram
 
 <br>
 
-<img width="932" height="525" alt="Java IO concept" src="https://github.com/user-attachments/assets/c4fe7aa2-5b9b-4bde-8c74-3b28bf823007" />
-
-<br>
