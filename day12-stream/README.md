@@ -1,5 +1,11 @@
 <br>
 
+<img width="1149" height="1369" alt="스트림" src="https://github.com/user-attachments/assets/a5cc442d-3c62-4a0b-90f4-d3fff66eb563" />
+
+
+<br>
+
+
 # ☕ Java Basic Learning - Day 12 (Stream / Optional)
 
 Day12는 자바 **Stream(스트림) 파이프라인**을 이용해 컬렉션 데이터를 **선언형(메서드 체이닝)** 으로 처리하고,  
@@ -159,3 +165,66 @@ public class StreamPipeLineExample {
 - 스트림 파이프라인이 **Source → 중간 연산 → 최종 연산** 구조라는 걸 설명할 수 있는가?
 - `mapToInt()`를 쓰면 왜 `sum()`/`average()`를 편하게 쓸 수 있는가?
 - `average()`가 `OptionalDouble`을 반환하는 이유를 설명할 수 있는가?
+
+<br>
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/19692ecd-f39a-4df1-bc16-a7c9330c155b" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_4" src="https://github.com/user-attachments/assets/d0b43ca7-0582-4e46-9fa8-d1c85afd2a49" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_5" src="https://github.com/user-attachments/assets/0199849f-6a7d-40f6-a5eb-5575a8a7e9f2" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_6" src="https://github.com/user-attachments/assets/0f1e9772-dfcb-47cf-99af-ce7678f6abec" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_7" src="https://github.com/user-attachments/assets/e3531f36-c9b1-4ee0-bdb2-9208928e9edd" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_11" src="https://github.com/user-attachments/assets/5b90a9c6-f713-4fbd-b168-cdde1eac4b72" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_12" src="https://github.com/user-attachments/assets/00a6911f-e6aa-4ed3-abb9-7b7268e88d2c" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_24" src="https://github.com/user-attachments/assets/a31ebbff-f307-4523-8b15-275086569b67" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_34" src="https://github.com/user-attachments/assets/36f4d0d9-0bd1-4b6b-9a87-0b4227972439" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_36" src="https://github.com/user-attachments/assets/4624794d-9a46-42cb-b3ee-ed6544f05c1c" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_40" src="https://github.com/user-attachments/assets/54b8b0f5-9fd9-4ec8-b7b5-b4a5a7e8cc82" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_41" src="https://github.com/user-attachments/assets/0c076af3-daf7-41b9-a76d-e3e5676f437e" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_42" src="https://github.com/user-attachments/assets/97ca84bd-d29e-4747-bf04-15bf4ffb4340" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_43" src="https://github.com/user-attachments/assets/0b2ecaaa-4c9b-4bb1-af27-808ed963429c" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_44" src="https://github.com/user-attachments/assets/a1413456-4faf-4b23-8b2f-ea87084a64e7" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_45" src="https://github.com/user-attachments/assets/77b5f0aa-bbad-4898-bcb2-25b2fde6dc96" />
+
+<img width="2208" height="1242" alt="6FD1EA1EF645EF159C800A38167B2A44_46" src="https://github.com/user-attachments/assets/a83c7a8a-e79f-476a-b978-d27858a750f2" />
+
+
+<br>
+- 디버거
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/792604a8-62ff-433c-921e-a102f7b1e93c" />
+<img width="3795" height="1973" alt="image" src="https://github.com/user-attachments/assets/d6a16b1a-1cc5-4d01-ab50-e4e507f3e136" />
+<img width="1699" height="1987" alt="image" src="https://github.com/user-attachments/assets/1840d777-50d0-483d-a78b-0e97153abebe" />
+<img width="3506" height="1403" alt="image" src="https://github.com/user-attachments/assets/04ba5b15-c380-43c3-b459-e5e1f38f5952" />
+<img width="3579" height="1787" alt="image" src="https://github.com/user-attachments/assets/c63c0ce7-0eb8-4e2d-8f27-ee480fe4fb15" />
+<img width="2548" height="1358" alt="image" src="https://github.com/user-attachments/assets/b7c9fe8d-ba9d-4d42-a6bf-fd15dfc9e96a" />
+<img width="2543" height="1351" alt="image" src="https://github.com/user-attachments/assets/f5377fc3-5793-436d-802d-11412ebc4e43" />
+
+<hr>
+
+- 멀티코어 CPU → 동시에 4개 작업 처리 가능 (CPU 1개, Core 4개 (쿼드코어) <br>
+- 내부 반복자 + 멀티코어 (컬렉션 내부에서 데이터를 나눠서 여러 코어에 자동 분배) <br>
+
+<img width="1002" height="1614" alt="image" src="https://github.com/user-attachments/assets/33560dd6-2fe6-435a-afc3-e59ff3527447" />
+<br>
+<img width="2037" height="1234" alt="image" src="https://github.com/user-attachments/assets/5348c4f1-8002-4eca-8a35-876aff9f59d8" />
+<br>
+
+<img width="1480" height="581" alt="image" src="https://github.com/user-attachments/assets/37ccd42d-e379-4308-ab98-75f1ebbac539" />
+
+
+
+

@@ -70,6 +70,7 @@
     "Application.SimpleGraphTest.executor": "Run",
     "Application.StringBuilderPractice.executor": "Run",
     "Application.StudentUse.executor": "Run",
+    "Application.SyncTest.executor": "Run",
     "Application.TCPClients.executor": "Run",
     "Application.TCPServer.executor": "Run",
     "Application.Test1.executor": "Run",
